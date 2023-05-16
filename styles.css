@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(219, 172, 100);
+    color: rgb(145, 138, 129);
     text-align: center;
     font-size: 50px;
 }
@@ -22,4 +22,8 @@ body {
     font-size: 20px;
     margin: 30px;
     padding: 20px;
+}
+
+img{
+    
 }
