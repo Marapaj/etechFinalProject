@@ -1,3 +1,25 @@
-.bg{
-    
+h1 {
+    color: rgb(219, 172, 100);
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(234, 222, 208);
+}
+
+.parag1 { 
+    background-color: rgb(202, 192, 180);
+    border: 10px solid rgb(164, 152, 152);
+    font-size: 20px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.parag2 {
+    background-color: rgb(175, 153, 121);
+    border: 10px solid rgb(126, 79, 79);
+    font-size: 20px;
+    margin: 30px;
+    padding: 20px;
 }
